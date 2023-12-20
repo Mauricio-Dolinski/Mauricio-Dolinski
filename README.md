@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" title="Java"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/> <img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus"/> <img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="React"/> 
+
 <a href="https://github.com/Mauricio-Dolinski">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Dolinski&layout=compact&langs_count=7&theme=dracula"/>
 <!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Dolinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   -->
-
+          
 ## Focando em melhorar
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" title="Java"/> <img loading="lazy" src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="40" height="40" title="Spring"/> 
 
 
 ## Contato:
