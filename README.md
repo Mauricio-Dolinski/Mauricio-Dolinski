@@ -1,31 +1,24 @@
-# Olá, me chamo Mauricio Dolinski ! 👋
+# Olá, Devs ! 👋
 
-<!--
-**Mauricio-Dolinski/Mauricio-Dolinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Mauricio Dolinski e estou na jornada Back-end rumo ao FullStack Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" title="Java"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/> <img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus"/> <img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="React"/> 
+<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/></code>
+<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/></code>
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus"/></code>
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="React"/></code>
+<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/></code>
+    
 
 <a href="https://github.com/Mauricio-Dolinski">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Dolinski&layout=compact&langs_count=7&theme=dracula"/>
-<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Dolinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  -->
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Dolinski&layout=compact&langs_count=6&theme=dracula&locale=pt-br"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Dolinski&include_all_commits=true&theme=dracula&rank_icon=github&locale=pt-br"/>
           
 ## Focando em melhorar
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" title="Java"/> <img loading="lazy" src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="40" height="40" title="Spring"/> 
+<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/></code> 
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="40" height="40" title="Spring"/></code> 
 
 
 ## Contato:
