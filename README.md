@@ -1,6 +1,13 @@
+
 # Olá, Devs ! 👋
 
 Me chamo Mauricio Dolinski e estou na jornada Back-end rumo ao FullStack Developer.
+
+<img align-text="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="150" />
+
+
+
+
 
 ## Ferramentas e Tecnologias
 
