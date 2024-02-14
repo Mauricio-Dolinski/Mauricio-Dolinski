@@ -31,7 +31,7 @@ Me chamo Mauricio Dolinski e estou na jornada Back-end rumo ao FullStack Develop
 ## Contato:
 
 <div>
-<a href="https://www.linkedin.com/in/mauricio-da-mota-porelli-dolinski-147971181/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/mauricio-dolinski" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <div>
