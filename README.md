@@ -36,11 +36,11 @@ Me chamo Mauricio Dolinski sou Bacharel em Ciência da Computação e estou na j
 
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java"/></code> 
 <code><img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus" alt="Quarkus"/></code>
-<code><img loading="lazy" src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="40" height="40" title="Spring" alt="Spring"/></code>
+<code><img loading="lazy" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="40" height="40" title="Swagger" alt="Swagger"/></code>
 
 <code><a>Java</a></code>
 <code><a>Quarkus</a></code>
-<code><a>Spring</a></code>
+<code><a>Swagger</a></code>
 
 
 ## Contato:
