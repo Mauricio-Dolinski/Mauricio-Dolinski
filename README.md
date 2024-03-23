@@ -1,3 +1,4 @@
+<html lang="pt-br">
 
 # Olá, Devs ! 👋
 
@@ -15,18 +16,31 @@ Me chamo Mauricio Dolinski e estou na jornada Back-end rumo ao FullStack Develop
 <code><img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus" alt="Quarkus"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" alt="MySQL"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/></code>
-<code><img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="React" alt="React"/></code>
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="ReactJS" alt="ReactJS"/></code>
 
-    
+<code><a>Java</a></code>
+<code><a>Quarkus</a></code>
+<code><a>MySQL</a></code>
+<code><a>JavaScript</a></code>
+<code><a>ReactJS</a></code>
 
 <a href="https://github.com/Mauricio-Dolinski">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Dolinski&layout=compact&langs_count=6&theme=dracula&locale=pt-br"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Dolinski&include_all_commits=true&theme=dracula&rank_icon=github&locale=pt-br"/>
-          
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Dolinski&layout=compact&langs_count=6&theme=dracula&locale=pt-br" alt="Gráfico de linguagens mais utilizadas nos projetos: Java > 50%"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Dolinski&include_all_commits=true&theme=dracula&rank_icon=github&locale=pt-br" alt="Gráfico de commits do GitHub mostrando atividades"/>
+
+
+
+
 ## Focando em melhorar
 
+
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java"/></code> 
-<code><img loading="lazy" src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="40" height="40" title="Spring" alt="Spring"/></code> 
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus" alt="Quarkus"/></code>
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354380/spring-icon.svg" width="40" height="40" title="Spring" alt="Spring"/></code>
+
+<code><a>Java</a></code>
+<code><a>Quarkus</a></code>
+<code><a>Spring</a></code>
 
 
 ## Contato:
