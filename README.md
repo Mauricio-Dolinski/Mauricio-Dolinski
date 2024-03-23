@@ -12,10 +12,11 @@ Me chamo Mauricio Dolinski e estou na jornada Back-end rumo ao FullStack Develop
 ## Ferramentas e Tecnologias
 
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java"/></code>
-<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/></code>
 <code><img loading="lazy" src="https://www.svgrepo.com/download/354245/quarkus-icon.svg" width="40" height="40" title="Quarkus" alt="Quarkus"/></code>
-<code><img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="React" alt="React"/></code>
 <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" alt="MySQL"/></code>
+<code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript" alt="JavaScript"/></code>
+<code><img loading="lazy" src="https://www.svgrepo.com/download/354259/react.svg" width="40" height="40" title="React" alt="React"/></code>
+
     
 
 <a href="https://github.com/Mauricio-Dolinski">
